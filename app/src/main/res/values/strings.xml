@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sospel</string>
+    <string name="signin">SignIn</string>
+    <string name="signout">SignOut</string>
+</resources>
