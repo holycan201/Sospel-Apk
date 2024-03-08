@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void onCLick(View view) {
         Intent i = new Intent(MainActivity.this, MainActivity2.class);
-        
+
         i.putExtra("username", etUsername.getText().toString());
 
         startActivity(i);

@@ -31,7 +31,7 @@ public class MainActivity2 extends AppCompatActivity {
 
         if(b!=null)
         {
-            String j =(String) b.get("usernm");
+            String j =(String) b.get("username");
             tvUsername.setText(j);
         }
 
